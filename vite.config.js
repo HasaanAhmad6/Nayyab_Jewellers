@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Nayyab-Jewellers/',
+  base: '/Nayyab_Jewellers/',
   plugins: [react()],
 })
